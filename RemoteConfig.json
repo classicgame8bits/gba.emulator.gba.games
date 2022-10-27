@@ -10,11 +10,11 @@
   "downloadROMsEnabled": true,
   "downloadROMsURL": "https://www.romsgames.net/roms/gameboy-advance/",
   "fanpageURL": "",
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": {
       "title": "NES Games",
-      "content": "NES Emulator and all Games is ready! Download now!",
+      "content": "NES Emulator and all Games are available! Download now!",
       "imgUrl": "",
-      "downloadUrl": "market://details?id=nes.retro.nostalgia"
+      "downloadUrl": "market://details?id=retro.games.nostalgia.games"
     }
 }
