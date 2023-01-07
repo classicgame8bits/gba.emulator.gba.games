@@ -7,7 +7,7 @@
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
-  "downloadROMsEnabled": true,
+  "downloadROMsEnabled": false,
   "downloadROMsURL": "https://www.romsgames.net/roms/gameboy-advance/",
   "fanpageURL": "",
   "showNewGames": false,
